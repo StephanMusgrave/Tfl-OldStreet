@@ -26,16 +26,16 @@ Technologies used
 How to run it
 ----
 ```sh
-git clone git@github.com:NicoSa/Tfl-OldStreet.git
+git clone git@github.com:StephanMusgrave/Tfl-OldStreet.git
 cd Tfl-OldStreet
 open tfl_oldstreet.html
 ```
 
 Pairing Partners
 ----
-[Steve],[Nico]
+[Steve Musgrave],[Nico Saueressig]
 
-[Steve]:https://github.com/StephanMusgrave
-[Nico]:https://github.com/NicoSa
+[Steve Musgrave]:https://github.com/StephanMusgrave
+[Nico Saueressig]:https://github.com/NicoSa
 [TFL Api]:http://api.tfl.gov.uk/
 [App on Heroku]:http://tfl-oldstreet.herokuapp.com/
