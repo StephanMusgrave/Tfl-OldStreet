@@ -15,13 +15,14 @@ Learning to implement apps using a novel API in a Javascript environment.
 ## Technologies used
 |Technology                 |Used for                        |
 |---------------------------|--------------------------------|
-| Javascript | |
-| Jquery | |
-| Mustache.js | |
-| Underscore.js | |
-| HTML5 | |
-| CSS3 | |
-| [TFL API] | |
+| Javascript |programming alanguage for websites|
+| Jquery |a cross-platform JavaScript library designed to simplify the client-side scripting of HTML
+ |
+| Mustache.js |a simple web template system |
+| Underscore.js |a JavaScript library which provides utility functions for common programming tasks |
+| HTML5 |HyperText Markup Language: the standard markup language used to create web pages |
+| CSS3 |Cascading Style Sheets: a style sheet language used for describing the look and formatting of a document written in a markup language |
+| [TFL API] |Transport for London's application programming interface , enabling a query from an application to receive a bespoke response, depending on the parameters supplied |
 
 
 How to run it
