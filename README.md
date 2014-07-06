@@ -12,16 +12,17 @@ Objectives of exercise
 ----
 Learning to implement apps using a novel API in a Javascript environment.
 
-Technologies used
-----
-- Javascript
-- Jquery
-- Mustache.js
-- Underscore.js
-- HTML5
-- CSS3
-- Git
-- [TFL Api]
+## Technologies used
+|Technology                 |Used for                        |
+|---------------------------|--------------------------------|
+| Javascript | |
+| Jquery | |
+| Mustache.js | |
+| Underscore.js | |
+| HTML5 | |
+| CSS3 | |
+| [TFL API] | |
+
 
 How to run it
 ----
@@ -37,5 +38,5 @@ Pairing Partners
 
 [Steve Musgrave]:https://github.com/StephanMusgrave
 [Nico Saueressig]:https://github.com/NicoSa
-[TFL Api]:http://api.tfl.gov.uk/
+[TFL API]:http://api.tfl.gov.uk/
 [App on Heroku]:http://tfl-oldstreet.herokuapp.com/
