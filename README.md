@@ -15,7 +15,7 @@ Learning to implement apps using a novel API in a Javascript environment.
 ## Technologies used
 |Technology                 |Used for                        |
 |---------------------------|--------------------------------|
-| Javascript |programming alanguage for websites|
+| Javascript |programming language for websites|
 | Jquery |a cross-platform JavaScript library designed to simplify the client-side scripting of HTML
  |
 | Mustache.js |a simple web template system |
@@ -23,6 +23,7 @@ Learning to implement apps using a novel API in a Javascript environment.
 | HTML5 |HyperText Markup Language: the standard markup language used to create web pages |
 | CSS3 |Cascading Style Sheets: a style sheet language used for describing the look and formatting of a document written in a markup language |
 | [TFL API] |Transport for London's application programming interface , enabling a query from an application to receive a bespoke response, depending on the parameters supplied |
+|Heroku |Deployment |
 
 
 How to run it
