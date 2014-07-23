@@ -1,5 +1,5 @@
 #TFL - Old Street Arrivals 
-Week 7 project at Makers Academy
+Week 7 project at [Makers Academy]
 
 We created an app that checks the arrivals at Old Street Underground Station, London from the Traffic for London live data stream. It updates itself every 10 seconds, however the TFL API is slower most of the time.
 ![](public/oldstreetarrivalapp.png)
@@ -40,6 +40,7 @@ Pairing Partners
 [Nico Saueressig]:https://github.com/NicoSa
 [TFL API]:http://api.tfl.gov.uk/
 [App on Heroku]:http://tfl-oldstreet.herokuapp.com/
+[Makers Academy]:http://www.makersacademy.com
 
 ## Further work to do
 
